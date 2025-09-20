@@ -1,4 +1,4 @@
-# 📘 Understanding Mean Squared Error (MSE) — A Friendly Guide
+# 📘 Understanding Mean Squared Error (MSE) — A Friendly Way
 
 If you've ever built a machine learning model or tried predicting something—like house prices, stock values, or even cricket scores—you’ve probably wondered: *“How do I know if my predictions are any good?”*
 
