@@ -48,12 +48,6 @@ This series blends intuition, visuals, and code to help you master the art of mo
 Visit the deployed site:  
 🔗 [https://suyashnagargt.github.io/MachineLearning/](https://suyashnagargt.github.io/MachineLearning/)
 
----
-
-## 🙌 Credits
-
-Crafted with ❤️ by [@SuyashNagarGT](https://github.com/SuyashNagarGT)  
-Inspired by real-world modeling challenges and chai-fueled curiosity ☕
 
 ---
 <link rel="stylesheet" href="style.css">
