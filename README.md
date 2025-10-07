@@ -52,7 +52,7 @@ This series blends intuition, visuals, and code to help you master the art of mo
 ## 🌐 Live Blog Site
 
 Visit the deployed site:  
-🔗 [https://suyashnagargt.github.io/MachineLearning/](https://suyashnagargt.github.io/MachineLearning/)
+🔗 [https://suyashnagargt.github.io/LinearRegression](https://suyashnagargt.github.io/LinearRegression/)
 
 
 ---
