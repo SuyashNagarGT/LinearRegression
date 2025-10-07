@@ -90,9 +90,17 @@ print(f"Predicted value: {prediction[0]:.2f}")
 </details>
 ---
 
-<details>
-  <summary>🔗 Next Section</summary>
 
-[👉 Dive into Correlation →](https://github.com/SuyashNagarGT/MachineLearning/blob/e5e66c5d74224e0740afad4987abb0b4be301998/Correlation.md) Understand how variables move together before modeling
+## 📚 Next
 
-</details>
+| Topic | Description | Link |
+|-------|-------------|------|
+| 🔁 **Correlation** | How variables move together—before modeling begins | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/Correlation.md) |
+| 🔀 **Multicollinearity** | When predictors overlap too much and confuse the model | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/Multicollinearity.md) |
+| 📏 **VIF (Variance Inflation Factor)** | Quantify multicollinearity and decide what to drop | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/ViF.md) |
+| ✂️ **Regularization** | How Ridge and Lasso prevent overfitting and tame complexity | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/Regularization.md) |
+| ⚙️ **Parameters vs Hyperparameters** | What your model learns vs how you control its learning | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/Hyperparamete.md) |
+| 📊 **Evaluation Metrics** | MAE, MSE, R², and more—how to judge your model’s performance | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/Metric.md) |
+| 🔍 **Residual Analysis** | Visual checks for linearity, normality, and variance assumptions | [Explore →](https://github.com/SuyashNagarGT/MachineLearning/blob/1c0426d7546e50cbc4baafaf2c8d80314c4868a9/ResidualAnalysis.md) |
+
+
