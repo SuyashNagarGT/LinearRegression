@@ -74,3 +74,28 @@ Linear regression assumes residuals are **normally distributed**.
 - Q-Q Plot of Residuals
 
 </details>
+
+### 📷 Linear Regression Diagnostic Checks  
+> Visualizing residual behavior, linearity, and normality assumptions
+
+<table>
+  <tr>
+    <td align="center"><strong>Linearity Check</strong><br>
+      <img src="https://github.com/SuyashNagarGT/MachineLearning/raw/main/Lin_Checks.png" width="400"/>
+    </td>
+    <td align="center"><strong>Residuals vs Fitted</strong><br>
+      <img src="https://github.com/SuyashNagarGT/MachineLearning/blob/b5b2cc72af8a87e23fa046d63ae76e33c34f5579/res_fitted.png" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Q-Q Plot</strong><br>
+      <img src="https://github.com/SuyashNagarGT/MachineLearning/blob/b5b2cc72af8a87e23fa046d63ae76e33c34f5579/QQ.png" width="400"/>
+    </td>
+    <td align="center"><strong>Histogram of Residuals</strong><br>
+      <img src="https://github.com/SuyashNagarGT/MachineLearning/blob/b5b2cc72af8a87e23fa046d63ae76e33c34f5579/hist_res.png" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
+
