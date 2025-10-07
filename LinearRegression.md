@@ -86,3 +86,13 @@ model.fit(X, y)
 # Predict for new input
 prediction = model.predict([[5]])
 print(f"Predicted value: {prediction[0]:.2f}")
+```
+</details>
+---
+
+<details>
+  <summary>🔗 Next Section</summary>
+
+[👉 Dive into Correlation →](https://github.com/SuyashNagarGT/MachineLearning/blob/e5e66c5d74224e0740afad4987abb0b4be301998/Correlation.md) Understand how variables move together before modeling
+
+</details>
