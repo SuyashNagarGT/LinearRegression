@@ -9,7 +9,7 @@ Welcome to a modular, annotated journey through the foundations of Machine Learn
 This series blends intuition, visuals, and code to help you master the art of modeling—one concept at a time.
 
 ---
-
+<!--
 ## 🚀 What You'll Learn
 
 - 📈 Linear Regression — the OG of ML models  
@@ -20,6 +20,8 @@ This series blends intuition, visuals, and code to help you master the art of mo
 - 📊 Evaluation Metrics  
 - 🔍 Residual Analysis & Diagnostic Checks
 
+...
+-->
 ---
 
 
