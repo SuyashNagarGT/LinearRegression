@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #121212; /* Dark background */
+  color: #f0f0f0;            /* Light text */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+  color: #80cbc4; /* Teal links */
+}
+
+table {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #444;
+}
