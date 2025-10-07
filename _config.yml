@@ -4,9 +4,3 @@ plugins:
 
 minima:
   skin: dark   # or 'auto' to match system settings
-
-  ---
-layout: default
-title: Machine Learning - Linear Regression
----
-
