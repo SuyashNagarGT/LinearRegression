@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="style.css">
 # 📘 Machine Learning Series by Suyash Nagar  
 > **“From drawing straight lines to decoding model madness—this repo walks you through it all.”** 😅🤖
 
