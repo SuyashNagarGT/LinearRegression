@@ -161,11 +161,12 @@ y = [300000, 400000, 500000, 600000]             # House prices
 model = LinearRegression()
 model.fit(X, y)
 
----
-
 # Predict for new input
 prediction = model.predict([[1800, 4]])
 print(f"Predicted price: ₹{prediction[0]:,.0f}")
+
+---
+
 Add visuals like:
 
 📈 3D scatter plot with regression plane
