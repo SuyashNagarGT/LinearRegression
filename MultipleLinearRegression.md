@@ -3,6 +3,8 @@
 
 Ever tried predicting house prices based not just on square footage, but also location, number of bedrooms, and proximity to chai stalls? That’s Multiple Linear Regression in action. It’s Linear Regression’s extroverted cousin—handling more variables, more nuance, and more chaos.
 
+-----
+
 <details> <summary>📚 What Is Multiple Linear Regression?</summary>
 
 Multiple Linear Regression (MLR) is a supervised learning algorithm that models the relationship between one dependent variable and two or more independent variables using a straight-line equation.
@@ -10,6 +12,8 @@ Multiple Linear Regression (MLR) is a supervised learning algorithm that models 
 In simple terms: It answers “How do multiple factors together influence an outcome?”
 
 </details>
+
+---
 
 <details> <summary>⚙️ How Does It Work?</summary>
 
@@ -78,6 +82,8 @@ The goal? Minimize the sum of squared errors across all data points.
 
 </details>
 
+---
+
 <details> <summary>🎯 When Should You Use It?</summary>
 
 🧮 When your outcome depends on multiple factors
@@ -92,6 +98,8 @@ Think of it as the “group project” version of predictive modeling.
 
 </details>
 
+---
+
 <details> <summary>🏡 Real-Life Examples</summary>
 
 🏠 Predicting house prices using square footage, location, and number of bedrooms
@@ -105,6 +113,8 @@ Think of it as the “group project” version of predictive modeling.
 Basically, if your scatter plot needs more than one axis—MLR’s your buddy.
 
 </details>
+
+---
 
 <details> <summary>📐 Assumptions You Should Know</summary>
 
@@ -122,6 +132,8 @@ Violating these can lead to misleading coefficients and poor predictions.
 
 </details>
 
+---
+
 <details> <summary>🚧 Limitations</summary>
 
 ❌ Sensitive to outliers
@@ -136,6 +148,7 @@ It’s powerful, but not magical. Use with care.
 
 </details>
 
+---
 <details> <summary>👨‍💻 Python Starter Snippet</summary>
 
 python
@@ -147,6 +160,8 @@ y = [300000, 400000, 500000, 600000]             # House prices
 
 model = LinearRegression()
 model.fit(X, y)
+
+---
 
 # Predict for new input
 prediction = model.predict([[1800, 4]])
