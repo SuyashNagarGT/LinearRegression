@@ -101,3 +101,56 @@ Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, 
   </a>
 
 </p>
+
+
+<link rel="stylesheet" href="style.css">
+
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/main/Suyash_image_transparent.png?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%; background-color: transparent;">
+    </td>
+    <td valign="top">
+      <h2>Ohla!! 👋</h2>
+      <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
+      <p style="margin-top: 10px; font-size: 16px;">
+        <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+📬 <strong>Connect with Me</strong>  
+Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, — I'm always open to building something impactful.
+
+<p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/suyashnagar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@suyashnagar" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" alt="YouTube"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/SuyashNagarGT" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub"/>
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+917906655101" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="30" alt="Phone"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:suyash.nagar@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="30" alt="Email"/>
+  </a>
+
+</p>
+
