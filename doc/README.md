@@ -1,4 +1,5 @@
-[<link rel="stylesheet" href="style.css">](https://github.com/SuyashNagarGT/LinearRegression/blob/40c753f94dc3ec0a4ce8cd25f4ed74fb5e784ab1/style.css)
+<link rel="stylesheet" href="/LinearRegression/assets/css/style.css">
+
 
  
 
