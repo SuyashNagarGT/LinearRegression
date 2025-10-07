@@ -56,7 +56,22 @@ Crafted with ❤️ by [@SuyashNagarGT](https://github.com/SuyashNagarGT)
 Inspired by real-world modeling challenges and chai-fueled curiosity ☕
 
 ---
+<link rel="stylesheet" href="style.css">
 
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
+    </td>
+    <td valign="top">
+      <h2>Welcome 👋</h2>
+      <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
+      <p style="margin-top: 10px; font-size: 16px;">
+        <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions  </em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
