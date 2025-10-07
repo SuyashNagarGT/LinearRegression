@@ -2,6 +2,7 @@
 
 # 📘 Machine Learning - Linear Regression by Suyash Nagar  
 
+
 > **“From drawing straight lines to decoding model madness—this repo walks you through it all.”** 😅🤖
 
 Welcome to a modular, annotated journey through the foundations of Machine Learning.  
@@ -20,6 +21,7 @@ This series blends intuition, visuals, and code to help you master the art of mo
 - 🔍 Residual Analysis & Diagnostic Checks
 
 ---
+
 
 ## 📚 Explore the Series
 
