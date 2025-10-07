@@ -39,9 +39,11 @@ Where:
 
 </details>
 
-<details> <summary>🧪 Python Example: Detecting VIF</summary>
 
-python
+<details>
+<summary>📊 Click to copy Python snippet for VIF calculation</summary>
+
+```python
 import pandas as pd
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
@@ -60,6 +62,8 @@ vif_data['Feature'] = df.columns
 vif_data['VIF'] = [variance_inflation_factor(df.values, i) for i in range(df.shape[1])]
 
 print(vif_data)
+
+
 🧠 Output Insight:
 You’ll likely see high VIF for sqft and total_area—they’re too similar. That’s multicollinearity in action.
 
@@ -77,7 +81,8 @@ You’ll likely see high VIF for sqft and total_area—they’re too similar. Th
 
 </details>
 
-<details> <summary>🎯 Real-Life Example</summary>
+<details>
+<summary>🎯 Real-Life Example</summary>
 
 Let’s say you’re building a model to predict car price using:
 
