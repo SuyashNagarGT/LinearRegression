@@ -10,7 +10,7 @@ Welcome to the ultimate Machine Learning cheat sheet—curated for clarity, sass
 ### 🔹 [Introduction to Machine Learning](https://github.com/SuyashNagarGT/MachineLearning/blob/main/Machine%20Learning.md)  
 What ML is, why it matters, and how it’s secretly running your life.
 
-### 🔹 [Linear Regression](#)  
+### 🔹 [Linear Regression](https://github.com/SuyashNagarGT/MachineLearning/blob/main/LinearRegression.md)  
 Drawing straight lines through chaos—because simplicity still works.
 
 ---
