@@ -50,6 +50,7 @@ Visit the deployed site:
 
 
 ---
+
 <link rel="stylesheet" href="style.css">
 
 <table>
@@ -58,7 +59,7 @@ Visit the deployed site:
       <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
     </td>
     <td valign="top">
-      <h2>👋👋</h2>
+      <h2>Ohla!! 👋</h2>
       <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
       <p style="margin-top: 10px; font-size: 16px;">
         <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions  </em>
