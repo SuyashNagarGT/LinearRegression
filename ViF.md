@@ -40,7 +40,7 @@ Where:
 </details>
 
 
-<details>
+
 <summary>📊 Click to copy Python snippet for VIF calculation</summary>
 
 ```python
@@ -63,11 +63,13 @@ vif_data['VIF'] = [variance_inflation_factor(df.values, i) for i in range(df.sha
 
 print(vif_data)
 
+```
+
 
 🧠 Output Insight:
 You’ll likely see high VIF for sqft and total_area—they’re too similar. That’s multicollinearity in action.
-
 </details>
+ 
 
 <details> <summary>🧰 How to Fix High VIF</summary>
 
