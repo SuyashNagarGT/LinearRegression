@@ -59,7 +59,7 @@ Visit the deployed site:
       <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
     </td>
     <td valign="top">
-      <h2>Ohla!! 👋</h2>
+      <h2>Welcome 👋</h2>
       <p><strong>Suyash Nagar</strong> — 🚀 <strong>AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
       <p style="margin-top: 10px; font-size: 16px;">
         <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions  </em>
@@ -73,7 +73,7 @@ Visit the deployed site:
  📬 Connect with Me
 Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, —I'm always open to building something impactful.
 
-<p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+<p align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/suyashnagar" target="_blank">
@@ -85,34 +85,20 @@ Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, 
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" alt="YouTube"/>
   </a>
 
-  <!-- GitHub -->
+  <!-- GitHub (white version for dark background) -->
   <a href="https://github.com/SuyashNagarGT" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" alt="GitHub"/>
   </a>
 
-  <!-- Phone -->
+  <!-- Phone (white icon) -->
   <a href="tel:+917906655101" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="30" alt="Phone"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/phone.png" width="30" alt="Phone"/>
   </a>
 
-  <!-- Email -->
+  <!-- Email (white icon) -->
   <a href="mailto:suyash.nagar@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="30" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="30" alt="Email"/>
   </a>
 
-
-<table>
-  <tr>
-    <td width="200" valign="top">
-      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
-    </td>
-    <td valign="top" style="color: black;">
-      <h2 style="color: black;">Ohla!! 👋</h2>
-      <p><strong style="color: black;">Suyash Nagar</strong> — 🚀 <strong style="color: black;">AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
-      <p style="margin-top: 10px; font-size: 16px; color: black;">
-        <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions</em>
-      </p>
-    </td>
-  </tr>
-</table>
+</p>
 
