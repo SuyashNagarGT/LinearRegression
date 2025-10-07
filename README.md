@@ -100,3 +100,19 @@ Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, 
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="30" alt="Email"/>
   </a>
 
+
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://github.com/SuyashNagarGT/SuyashNagar/blob/6ef6816cd84b8e5abfcabe101cef17c5693395ee/Suaysh_image.jpeg?raw=true" alt="Suyash Nagar Profile Photo" width="180" style="border-radius:10%">
+    </td>
+    <td valign="top" style="color: black;">
+      <h2 style="color: black;">Ohla!! 👋</h2>
+      <p><strong style="color: black;">Suyash Nagar</strong> — 🚀 <strong style="color: black;">AI/ML Consultant | Data Storyteller | Agile Leader</strong><br> </p>
+      <p style="margin-top: 10px; font-size: 16px; color: black;">
+        <em>18+ yrs in AI, ML & Data Analytics | Leading global teams to turn data into decisions</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
