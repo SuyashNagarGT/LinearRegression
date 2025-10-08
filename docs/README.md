@@ -70,9 +70,6 @@ Let’s Collaborate 🤝 Whether it’s AI, Machine Learning or Data Analytics, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.youtube.com/@suyashnagar" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="30" alt="YouTube"/>
-  </a>
 
   <a href="https://github.com/SuyashNagarGT" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" alt="GitHub"/>
